@@ -3,7 +3,7 @@
 
 - I’m currently learning **Assembly, OpenGL and Rust**
 
-- I regularly make projects about [Games, Cybersecurity and Random stuff](Games, Cybersecurity and Random stuff)
+- I regularly make projects about [Games, Cybersecurity and Random stuff]
 
 - How to reach me **Discord: cursed_dynamics**
 
